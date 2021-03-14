@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/simple_database.dir/main.c.o  -o simple_database.exe -Wl,--out-implib,libsimple_database.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
