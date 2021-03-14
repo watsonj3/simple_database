@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/jwats/CLionProjects/simple_database/main.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+
